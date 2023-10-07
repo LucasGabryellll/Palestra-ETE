@@ -1,7 +1,10 @@
 # Codigo prático para Paletra ETE.
 
 ## 💻 Código de demonstração sobre como funciona o React Native e seus componentes.
-- Foi desenvolvido duas telas a de Login do Instagram e Login da Netflix.
+- Foi desenvolvido duas telas a de Login do Instagram e Login da Netflix e outra a parte.
+
+<p aling="center">
+ <img alt="GitHub Image" src=https://github.com/LucasGabryellll/Palestra-ETE/blob/main/foto/telas.png>
 
 ## 🚀 Ferramentas e Tecnologías:
  - <img src="https://img.icons8.com/color/344/typescript.png" width="25px"> Typescript.
